@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "66ed85e141e7451979c36c7a"
+  },
+  "question": "How do I purchase an online chemistry course ?",
+  "answer": "Log in, go to the 'Courses' section, choose your course, click 'Purchase' and follow the payment instructions. You'll get a confirmation email once the purchase is complete. ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed86e341e7451979c36c80"
+  },
+  "question": "How can I view the academic calendar?",
+  "answer": "The academic calendar is available in the 'Resources' section. You can also download it for easy access.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed880241e7451979c36c88"
+  },
+  "question": "What can I do if the video doesn’t load or is buffering due to network issues?",
+  "answer": " If the video doesn’t load or buffers frequently, try the following steps:  \n   1. *Check your internet connection:* Ensure you have a stable connection, preferably over Wi-Fi.  \n   2. *Clear your browser’s cache:* Sometimes, clearing your cache can resolve loading issues.  \n   3. *Lower video quality:* You can adjust the video resolution to a lower setting for smoother playback.  \n   4. *Use a different browser/device:* If the issue persists, try accessing the course from a different browser or device.  \n   If none of these solutions work, please contact our technical support team for assistance.\n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed88b841e7451979c36c8d"
+  },
+  "question": "What do I do if I can’t access a purchased course?",
+  "answer": "  If you’ve purchased a course but can’t access it:  \n   1. Ensure that your payment was processed correctly by checking your email for a confirmation receipt.  \n   2. Verify that you are logged into the correct account.  \n   3. If the issue persists, clear your browser’s cache and cookies, then try logging in again.  \n   4. Contact our support team with your order details for further assistance if you still can’t access the course.\n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ed892841e7451979c36c92"
+  },
+  "question": "How do I get updates about changes to the academic calendar?",
+  "answer": "To stay updated on changes to the academic calendar:  \n   1. *Email notifications:* We send email alerts for significant updates, such as changes in exam dates, holidays, or course schedules.  \n   2. *Check the 'Academic Calendar' section:* Updates are posted in the 'Academic Calendar' area of the LMS.  \n   3. *Announcements:* Key updates are also shared in the 'Announcements' section on your dashboard. Be sure to regularly check this area for the latest news.  \n   If you subscribe to push notifications, you will also receive alerts directly on your mobile device.\n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeda1ea9e65cc1a253a434"
+  },
+  "question": "How can we go to resources?",
+  "answer": "Move the cursor to the main panel. Then go to the resources",
+  "__v": 0
+}]
